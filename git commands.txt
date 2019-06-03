@@ -1,0 +1,21 @@
+-- push pe git
+---------------
+
+git init -> pt a face din folderul respectiv un repository
+
+
+1. click dreapta pe 'School-Projects' -> Git Bash Here
+
+git clone https://github.com/campeanBogdan/School-Projects
+
+git add .
+git commit -m "commit"
+git push origin master
+
+
+
+-- pull de pe git
+-----------------
+
+git clone https://github.com/campeanBogdan/School-Projects
+git pull origin master
